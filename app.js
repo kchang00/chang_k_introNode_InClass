@@ -1,7 +1,7 @@
 const http = require('http');
 
 const hostname = '127.0.0.1'; // this is localhost
-const port = 3000; // 3000 is a node convention, but you can enter in any port as long as it's not being used
+const port = process.env.PORT || 3000; // 3000 is a node convention, but you can enter in any port as long as it's not being used
 
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
