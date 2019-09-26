@@ -1,0 +1,20 @@
+{
+  "name": "chang_k_intronode_inclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kchang00/chang_k_introNode_InClass.git"
+  },
+  "keywords": [],
+  "author": "KC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kchang00/chang_k_introNode_InClass/issues"
+  },
+  "homepage": "https://github.com/kchang00/chang_k_introNode_InClass#readme"
+}
